@@ -1,8 +1,7 @@
-import math
+example = set()
 
-def volume_of_sphere(r):
-    """ Returns the volume of a Sphere with radius r."""
-    volume = (4/3) * math.pi * r**3
-    return volume
-
-print(volume_of_sphere(2))
+example.add(42)
+example.add(True)
+example.add(3.14)
+example.add("Uranium")
+print(example)
