@@ -3,3 +3,5 @@ print(tpl)
 
 s = {10, 20, 30, "XYZ", 10, 20 ,10}
 print(s)
+
+f = frozenset(s)
