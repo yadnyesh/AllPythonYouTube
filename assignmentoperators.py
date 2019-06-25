@@ -1,2 +1,4 @@
-a=b=c=10
-print(a,b,c)
+x = 20
+y = 30
+
+print((x == 20 ) and (y == 30))
