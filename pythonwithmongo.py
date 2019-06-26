@@ -28,3 +28,5 @@ post_3 = {
 new_result = posts.insert_many([post_1, post_2, post_3])
 print('Multiple posts: {0}'.format(new_result.inserted_ids))
 
+bills_post = posts.find_one({'author': 'Bill'})
+print(bills_post)
