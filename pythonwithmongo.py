@@ -30,3 +30,5 @@ print('Multiple posts: {0}'.format(new_result.inserted_ids))
 
 bills_post = posts.find_one({'author': 'Bill'})
 print(bills_post)
+
+TBD - https://realpython.com/introduction-to-mongodb-and-python/ MONGOENGINE
