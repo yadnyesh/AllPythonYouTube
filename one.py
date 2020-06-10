@@ -1,3 +1,5 @@
-import keyword
+a = 10
 
-print(keyword.kwlist)
+print(type(a))
+print(id(a))
+print(a)
