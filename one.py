@@ -1,5 +1,2 @@
-a = 10
-
-print(type(a))
-print(id(a))
+a = 0b10
 print(a)
