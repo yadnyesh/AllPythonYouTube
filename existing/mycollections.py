@@ -1,4 +1,4 @@
-s = "  Target Corporation in India Limited  "
+s = "  Walmart Labs  "
 print(s)
 print(len(s))
 print(s[:8])
