@@ -1,3 +1,4 @@
-s = 'durga'
-print(s[0])
+s = 'abcdefghijklmnopqrstuvqxyz'
+print(len(s))
 print(s[:-1])
+print(s[:])
