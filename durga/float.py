@@ -1,3 +1,3 @@
-pi = 3.1414
+pi = 3e3
 print(type(pi))
 print(pi)
