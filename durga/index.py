@@ -1,2 +1,2 @@
-s = 'durga ' * 2
+s = 'durga ' * 3
 print(s)
