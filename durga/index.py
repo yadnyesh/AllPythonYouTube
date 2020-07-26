@@ -1,2 +1,3 @@
-s = 'durga ' * 3
-print(s)
+print('#' * 8)
+print('yadnyesh')
+print('#' * 8)
