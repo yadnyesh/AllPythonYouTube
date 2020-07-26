@@ -1,2 +1,2 @@
-s = 'durga ' + str(10)
+s = 'durga ' * 2
 print(s)
