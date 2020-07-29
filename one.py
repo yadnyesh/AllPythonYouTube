@@ -1,3 +1,4 @@
-a = 0b10
-print(a)
-print(0xFace)
+a = 13
+print(id(a))
+a = 17
+print(id(a))
