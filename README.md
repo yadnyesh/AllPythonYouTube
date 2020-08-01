@@ -5,3 +5,6 @@ https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/learn/
 
 30-JUL-2020: 
   - No Updates today
+  
+31-JUL-2020
+  - No Updates today
