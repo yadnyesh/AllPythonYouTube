@@ -12,3 +12,5 @@ https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/learn/
 01-AUG-2020
   - No Updates today
 
+02-AUG-2020
+  - No Updates today, throat infection and fever
