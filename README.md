@@ -26,3 +26,6 @@ https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/learn/
 
 06-AUG-2020
   - No Updates today, office work, personal laptop not working
+
+07-AUG-2020
+  - No Updates today, office work, need to visit panaji for personal laptop repair
