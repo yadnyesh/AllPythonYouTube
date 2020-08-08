@@ -28,4 +28,7 @@ https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/learn/
   - No Updates today, office work, personal laptop not working
 
 07-AUG-2020
-  - No Updates today, office work, need to visit panaji for personal laptop repair
+  - No Updates today, office work, need to visit panaji for personal laptop repair, bought iPhone 11 :D
+  
+08-AUG-2020
+  - Need to look into MS Azure
