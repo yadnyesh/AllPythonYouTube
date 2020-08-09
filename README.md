@@ -31,4 +31,7 @@ https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/learn/
   - No Updates today, office work, need to visit panaji for personal laptop repair, bought iPhone 11 :D
   
 08-AUG-2020
+  - Need to look into MS Azure, stupid installed 720p screen instead of 1080p, first cycle ride to Marcel
+  
+09-AUG-2020
   - Need to look into MS Azure
