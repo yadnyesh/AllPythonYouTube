@@ -35,3 +35,6 @@ https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/learn/
   
 09-AUG-2020
   - Need to look into MS Azure
+  
+10-AUG-2020
+  - Looks like a long day at office :(
