@@ -3,3 +3,4 @@
 13-AUG-2020 --> Plan to start on Azure 900
 14-AUG-2020 --> Another long day at office
 15-AUG-2020 --> Want to wrap up AZ 900 course
+16-AUG-2020 --> Want to wrap up AZ 900 course - 16-AUG-2020
