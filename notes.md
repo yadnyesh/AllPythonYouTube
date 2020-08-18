@@ -5,3 +5,4 @@
 15-AUG-2020 --> Want to wrap up AZ 900 course
 16-AUG-2020 --> Want to wrap up AZ 900 course - 16-AUG-2020
 17-AUG-2020 --> Hopefully at least some start
+18-AUG-2020 --> Should get back on track with a week like this :)
