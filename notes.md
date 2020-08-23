@@ -10,3 +10,4 @@
 20-AUG-2020 --> Getting started with PMS UI
 21-AUG-2020 --> Preparing for Ganesh Chaturthi
 22-AUG-2020 --> Ganesh Chaturthi, in good spirits
+23-AUG-2020 --> Ganesh Chaturthi, in good spirits
