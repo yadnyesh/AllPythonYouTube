@@ -15,4 +15,4 @@
 23-AUG-2020 --> Ganesh Chaturthi, in good spirits
 
 24-AUG-2020 --> Already exhausted, need to gather energy to complete all the pending work
-25-AUG-2020 --> Hectic day ahead
+25-AUG-2020 --> Hectic day ahead, Q2 Checkins, WoT, low energy
