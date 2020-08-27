@@ -15,6 +15,9 @@
 23-AUG-2020 --> Ganesh Chaturthi, in good spirits
 
 24-AUG-2020 --> Already exhausted, need to gather energy to complete all the pending work
+
 25-AUG-2020 --> Hectic day ahead, Q2 Checkins, WoT, low energy
+
 26-AUG-2020 --> Hectic day ahead, DP+ order cancellation issues, associate feedback taking time
+
 27-AUG-2020 --> Hectic day ahead, DP+ order cancellation issues, associate feedback taking time
