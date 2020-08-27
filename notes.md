@@ -20,4 +20,4 @@
 
 26-AUG-2020 --> Hectic day ahead, DP+ order cancellation issues, associate feedback taking time
 
-27-AUG-2020 --> Hectic day ahead, DP+ order cancellation issues, associate feedback taking time
+27-AUG-2020 --> Another hectic day, associate feedback TP
