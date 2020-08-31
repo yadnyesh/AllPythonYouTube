@@ -28,4 +28,4 @@
 
 30-AUG-2020 -- New day
 
-31-AUG-2020 --> Gearup For Another month
+31-AUG-2020 --> Gearup For Another month --> https://www.udemy.com/course/microsoft-azure-fundamentals-training-bootcamp/learn/lecture/18394302#overview
