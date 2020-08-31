@@ -26,4 +26,6 @@
 
 29-AUG-2020 --> Let's see what's in store????
 
-30-UG-2020 -- New day
+30-AUG-2020 -- New day
+
+31-AUG-2020 --> Gearup For Another month
