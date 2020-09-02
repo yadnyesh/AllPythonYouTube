@@ -31,3 +31,5 @@
 31-AUG-2020 --> Gearup For Another month --> https://www.udemy.com/course/microsoft-azure-fundamentals-training-bootcamp/learn/lecture/18394302#overview
 
 01-SEP-2020 --> Another tough day ahead!
+
+02-SEP-2020 --> Deep dive into DDD
