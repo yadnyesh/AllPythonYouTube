@@ -35,3 +35,5 @@
 02-SEP-2020 --> Deep dive into DDD
 
 03-SEP-2020 --> Substituion Service -> Vikalp Production release
+
+04-SEP-2020 --> Q4 closing on......
