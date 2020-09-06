@@ -39,3 +39,5 @@
 04-SEP-2020 --> Q4 closing on......
 
 05-SEP-2020 --> Saturday, Saturday
+
+06-SEP-2020 --> 21kms cycling, Panaji drive
