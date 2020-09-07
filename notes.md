@@ -41,3 +41,5 @@
 05-SEP-2020 --> Saturday, Saturday
 
 06-SEP-2020 --> 21kms cycling, Panaji drive
+
+07-SEP-2020 --> Sore muscles
