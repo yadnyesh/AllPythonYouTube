@@ -43,3 +43,5 @@
 06-SEP-2020 --> 21kms cycling, Panaji drive
 
 07-SEP-2020 --> Sore muscles
+
+08-SEP-2020 --> Meeting withShital, Oreilly DDD
