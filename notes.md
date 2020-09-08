@@ -45,3 +45,5 @@
 07-SEP-2020 --> Sore muscles
 
 08-SEP-2020 --> Meeting withShital, Oreilly DDD
+
+09-SEP-2020 --> Vikalp wave 3 launch(10 new st)
