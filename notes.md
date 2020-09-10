@@ -47,3 +47,5 @@
 08-SEP-2020 --> Meeting withShital, Oreilly DDD
 
 09-SEP-2020 --> Vikalp wave 3 launch(10 new st)
+
+10-SEP-2020 --> OSM d to be finalized
