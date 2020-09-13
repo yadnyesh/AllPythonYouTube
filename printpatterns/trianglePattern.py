@@ -7,4 +7,4 @@ def pattern(n):
         for j in range(0, i + 1): 
             print("*", end=" ")
         print("\r")
-pattern(5)              
+pattern(5)
