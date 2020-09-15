@@ -55,3 +55,7 @@
 12-SEP-2020 --> Saturday, Saturday
 
 13-SEP-2020 --> Amona bridge at least?
+
+14-SEP-2020 --> Missed to update here, Kushal gone :(
+
+15-SEP-2020 --> Hectic start of the day :(
