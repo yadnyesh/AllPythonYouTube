@@ -59,3 +59,5 @@
 14-SEP-2020 --> Missed to update here, Kushal gone :(
 
 15-SEP-2020 --> Hectic start of the day :(
+
+16-SEP-2020 --> Long day ahead!
