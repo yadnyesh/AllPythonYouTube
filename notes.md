@@ -63,3 +63,5 @@
 16-SEP-2020 --> Long day ahead!
 
 17-SEP-2020 --> Not sure what lies ahead! AB pro with Vvk not at all good
+
+18-SEP-2020 --> Prod Subs rollout 2:30am start of day
