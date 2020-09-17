@@ -62,4 +62,4 @@
 
 16-SEP-2020 --> Long day ahead!
 
-17-SEP-2020 --> Not sure what lies ahead!
+17-SEP-2020 --> Not sure what lies ahead! AB pro with Vvk not at all good
