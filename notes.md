@@ -67,3 +67,5 @@
 18-SEP-2020 --> Prod Subs rollout 2:30am start of day
 
 19-SEP-2020 --> Saturday, grocery shopping :(
+
+20-SEP-2020 --> Want to finish JUnit course today
