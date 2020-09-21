@@ -71,3 +71,5 @@
 20-SEP-2020 --> Want to finish JUnit course today
 
 21-SEP-2020 --> 10 min Walk plus half pushups
+
+22-Sep-2020--> Vikalp frrk release 2:00am
