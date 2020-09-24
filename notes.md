@@ -73,3 +73,7 @@
 21-SEP-2020 --> 10 min Walk plus half pushups
 
 22-Sep-2020--> Vikalp frrk release 2:00am
+
+23-Sep-2020 --> Cracked Sonarqube, Jacoco :)
+
+24-Sep-2020 --> Vikal 53 more st.
