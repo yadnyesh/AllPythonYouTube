@@ -77,3 +77,5 @@
 23-Sep-2020 --> Cracked Sonarqube, Jacoco :)
 
 24-Sep-2020 --> Vikal 53 more st.
+
+25-Sep-2020 --> Lets see another Friday
