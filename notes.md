@@ -83,3 +83,5 @@
 26-Sep-2020 --> Another saturday
 
 27-Sep-2020 --> Started with CS50's web programming
+
+28-Sep-2020 --> Monday
