@@ -1,4 +1,3 @@
-name = "Yadnyesh"
-company = "Walmart"
-salary = 1000000
-print("Hello {}, you work for {} and get compensated with monthly salary of {}".format(name, company, salary))
+price = 70.56789
+print('Price is {}'.format(price))
+print('Price now is = %.2f' %price)
