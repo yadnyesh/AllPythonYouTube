@@ -85,3 +85,5 @@
 27-Sep-2020 --> Started with CS50's web programming
 
 28-Sep-2020 --> Monday
+
+29-Sep-2020 --> Tuesday, VK rollout done ex. 4 to 5 st, let down by people around
