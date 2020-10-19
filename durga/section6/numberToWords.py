@@ -1,13 +1,14 @@
+numberList = ['ZERO', 'ONE', 'TWO', 'THREE']
 n = int(input('Enter digit between 0 and 4: '))
 if n == 0:
-    print('Zero')
+    print(numberList[n])
 elif n == 1:
-    print('One')
+    print(numberList[n])
 elif n == 2:
-    print('Two')    
+    print(numberList[n])   
 elif n == 3:
-    print('Three')
+    print(numberList[n])
 elif n ==4:
-    print('Four')
+    print(numberList[n])
 else:
     print('Invalid Input')          
