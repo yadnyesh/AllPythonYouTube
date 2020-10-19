@@ -2,4 +2,5 @@ name = input('Enter name: ')
 if name == 'yadnyesh':
     print('Hello!, Good Morning')
 else:
-    print('Hello Guest!')    
+    print('Hello Guest!')  
+print('How are you?')      
