@@ -1,7 +1,8 @@
-for i in range(10):
-    if (i == 8):
-        print('Done printing....')
+cart = [10, 20, 30, 600, 70, 80]
+
+for cost in cart:
+    if(cost > 500):
+        print('Insurance needed')
         break
-    else:
-        print(i)
-print('Reached outside the loop :)')
+    print('No items with cost more than $500')
+     
