@@ -1,1 +1,1 @@
-print("2002 - my favourite year")
+print("20 days are " + str(20) + " days ahead")
