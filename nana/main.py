@@ -1,1 +1,1 @@
-print("20 days are " + str(20) + " days ahead")
+print(f"20 days are {20 * 24 * 60} minutes")
