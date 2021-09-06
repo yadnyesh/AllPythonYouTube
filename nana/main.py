@@ -22,5 +22,7 @@ def validate_and_execute():
 ip_number_of_days = ""
 while ip_number_of_days != "exit":
     ip_number_of_days = input("Enter the number of days as a comma seperated list: " )
-    for number_of_days in ip_number_of_days.split(","):    
+    print(ip_number_of_days.split(","))
+    print(set(ip_number_of_days.split(",")))
+    for number_of_days in set(ip_number_of_days.split(",")):    
         validate_and_execute()
