@@ -7,15 +7,16 @@ def days_to_units(number_of_days):
 
 
 def validate_and_execute():
-    ip_number_of_days = input("Enter the number of days: " )
-    if ip_number_of_days.isdigit():
-        ip_number_of_days = int(ip_number_of_days)
+    try:
+        ip_number_of_days = int(input("Enter the number of days: " ))        
         if (ip_number_of_days > 0):
             calculated_value = days_to_units(ip_number_of_days)
             print(calculated_value)
+        elif ip_number_of_days == 0:
+            print("Number of days should not be 0")
         else:
-            print("Number of days should be a number and > 1")
-    else:
+            print("You entered a -ve number, please don't do that!")    
+    except ValueError:
         print("Number of days should be a number and > 1")
-
+        
 validate_and_execute()
